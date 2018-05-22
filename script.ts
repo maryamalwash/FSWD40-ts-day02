@@ -1,1 +1,1 @@
-script.ts
+script.tsre
